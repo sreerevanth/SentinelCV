@@ -5,7 +5,12 @@
 
 
 **DETECTION PROOF**
-https://github.com/user-attachments/assets/a01d0479-6e6f-4e5c-a99d-139ce8b3f2ad
+
+
+<img width="800" height="411" alt="ezgif com-video-to-gif-converter (1) (1)" src="https://github.com/user-attachments/assets/bef30fa0-f14f-4c89-b8f4-83f0d6dbe07c" />
+
+
+
 
 
 
