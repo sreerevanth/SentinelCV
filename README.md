@@ -1,4 +1,4 @@
-                                                                    <img width="1918" height="820" alt="image" src="https://github.com/user-attachments/assets/9b12f082-8d9a-4333-b308-03aa60232f60" />
+<img width="1918" height="820" alt="image" src="https://github.com/user-attachments/assets/9b12f082-8d9a-4333-b308-03aa60232f60" />
 
 >
                                          Turning everyday cameras into intelligent safety systems.
