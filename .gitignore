@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+.venv1/
+behavior_env/
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.onnx
+*.engine
+
+# Dataset
+data/
+
+# Media
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# Logs
+*.log
