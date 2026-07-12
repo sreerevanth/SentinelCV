@@ -1,6 +1,11 @@
 # 🛡️ SentinelCV
 
 > Turning everyday cameras into intelligent safety systems.
+**DETECTION PROOF**
+https://github.com/user-attachments/assets/a01d0479-6e6f-4e5c-a99d-139ce8b3f2ad
+**TELEGRAM ALERT PROOF**
+<img width="728" height="854" alt="image" src="https://github.com/user-attachments/assets/51d8fc38-3661-461d-abbf-aa72e042e330" />
+
 
 **SentinelCV** is a real-time computer vision platform that transforms any CCTV, IP camera, webcam, or video stream into an AI-powered safety monitor.
 
