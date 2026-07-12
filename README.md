@@ -1,20 +1,22 @@
-# 🛡️ SentinelCV
+##                                                             🛡️ SentinelCV
+>
+                                         Turning everyday cameras into intelligent safety systems.
 
-> Turning everyday cameras into intelligent safety systems.
 
 
-
-**DETECTION PROOF**
+**                                                               DETECTION PROOF**
 
 
 <img width="800" height="411" alt="ezgif com-video-to-gif-converter (1) (1)" src="https://github.com/user-attachments/assets/bef30fa0-f14f-4c89-b8f4-83f0d6dbe07c" />
 
 
 
+**                   **
+**                   **
 
 
 
-**TELEGRAM ALERT PROOF**
+**                                                            TELEGRAM ALERT PROOF**
 <img width="728" height="854" alt="image" src="https://github.com/user-attachments/assets/51d8fc38-3661-461d-abbf-aa72e042e330" />
 
 
